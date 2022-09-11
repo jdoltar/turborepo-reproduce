@@ -1,0 +1,8 @@
+{
+  "name": "package-d",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "echo 'package-d build start' && sleep 2 && echo 'package-d build complete'",
+    "dev": "echo 'running package-d in watch mode' && sleep 999999"
+  }
+}
