@@ -1,0 +1,12 @@
+{
+  "name": "turborepo-reproduce",
+  "version": "1.0.0",
+  "description": "Used for reproducing a turborepo issue",
+  "main": "index.js",
+  "author": "Jon Doltar <jdoltar@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
