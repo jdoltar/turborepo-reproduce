@@ -4,5 +4,9 @@
   "scripts": {
     "build": "echo 'package-a build start' && sleep 2 && echo 'package-a build complete'",
     "dev": "echo 'running package-a in watch mode' && sleep 999999"
+  },
+  "devDependencies": {
+    "package-b": "0.0.0",
+    "package-c": "0.0.0"
   }
 }

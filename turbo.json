@@ -7,10 +7,6 @@
     },
     "dev":  {
       "cache": false
-    },
-    "package-a#dev":  {
-      "dependsOn": ["package-b#dev", "package-c#dev"],
-      "cache": false
     }
   }
 }
